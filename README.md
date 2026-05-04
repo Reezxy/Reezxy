@@ -31,7 +31,7 @@ Building in AI, finance, and software.
 
 - AI application development (local + cloud systems)  
 - Mobile app engineering (React Native & Swift)  
-- Financial market analysis & trading systems  
+- Finance & trading systems  
 - Open source tools and experimentation  
 
 ---
@@ -39,8 +39,8 @@ Building in AI, finance, and software.
 ## Current Focus
 
 - Advanced AI systems & tooling  
-- Scalable mobile architectures  
-- Finance & trading (SMC-based strategies)  
+- Open source Projects
+- Finance
 
 ---
 
