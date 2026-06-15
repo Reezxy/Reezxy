@@ -8,7 +8,7 @@ Building in AI, finance, and software.
 
 - Student & Software Engineer  
 - Former Founder of Alevio AI  
-- Built and scaled AlevioOS to 20K+ users  
+- Built and scaled AlevioOS to 20K+ users with 0$ marketing budget
 - Focused on AI systems, automation, and financial markets  
 - Working on open source projects and advanced AI applications  
 
