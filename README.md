@@ -1,6 +1,7 @@
 # Reezxy
 
 Building in AI, finance, and software.
+felixdanyluk.com
 
 ---
 
